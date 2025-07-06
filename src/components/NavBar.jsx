@@ -1,4 +1,3 @@
-import React from 'react'
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import {assets} from "../../public/assets/assets"
 import { useClerk,UserButton, useUser } from '@clerk/clerk-react';

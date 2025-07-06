@@ -1,7 +1,5 @@
-import React from 'react'
 import { roomsDummyData } from '../../public/assets/assets'
 import HotelCard from './HotelCard'
-import Testss from './Testss'
 import Title from './Title'
 import { useNavigate } from 'react-router-dom'
 

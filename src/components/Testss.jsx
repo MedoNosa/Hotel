@@ -1,5 +1,5 @@
 import React from 'react'
-import { assets } from '../../public/assets/assets';
+import { assets } from '../assets/assets';
 export default function Testss({room}) {
    const [tilt, setTilt] = React.useState({ x: 0, y: 0 });
 
